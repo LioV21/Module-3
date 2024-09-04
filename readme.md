@@ -1,2 +1,6 @@
-Lionel Villanueva 
-This website is my online store where I sell products.
+# Portfolio Website
+
+**Author:** Lionel Villanueva
+
+## Purpose of the Project
+This project was developed as part of a learning activity to create a online store.
